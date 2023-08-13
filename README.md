@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**lilkohol/lilkohol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Liliya Artemyeva
 
-Here are some ideas to get you started:
+I've being working in biophisicts for the last eight years. Now I got PhD in biology and want to dive deep into data science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I really enjoy seing how ML makes our lives easier and more comfortable. For me, the most amazing applications of ML are things like advices on tracks in spotify and chatbots in mobile apps. 
+
+I’m currently looking for my first job in DS. 
+
+Data Science:
+• Python
+• analysis: pandas, numpy, scipy
+• visualization: matplotlib, seaborn
+• ML: sklearn, LGBM, SGDR, CatBoost
+• basic SQL
+• English language: C1
+
