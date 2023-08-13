@@ -9,10 +9,16 @@ I really enjoy seing how ML makes our lives easier and more comfortable. For me,
 I’m currently looking for my first job in DS. 
 
 Data Science:
+
 • Python
+
 • analysis: pandas, numpy, scipy
+
 • visualization: matplotlib, seaborn
+
 • ML: sklearn, LGBM, SGDR, CatBoost
+
 • basic SQL
+
 • English language: C1
 
